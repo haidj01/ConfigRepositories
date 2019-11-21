@@ -1,2 +1,3 @@
 app:
   timeout: 10000
+  greeting: hello world
