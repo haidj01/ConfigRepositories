@@ -1,0 +1,4 @@
+configClient:
+  common:
+    config:
+      greeting:hello from common config
